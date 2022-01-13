@@ -31,7 +31,7 @@ List<Car> getCarList() {
       "Land Rover",
       "Discovery",
       2580,
-      "Weekly",
+      "Buy",
       [
         "assets/images/land_rover_0.png",
         "assets/images/land_rover_1.png",
@@ -42,7 +42,7 @@ List<Car> getCarList() {
       "Alfa Romeo",
       "C4",
       3580,
-      "Monthly",
+      "Buy",
       [
         "assets/images/alfa_romeo_c4_0.png",
       ],
@@ -51,7 +51,7 @@ List<Car> getCarList() {
       "Nissan",
       "GTR",
       1100,
-      "Daily",
+      "Buy",
       [
         "assets/images/nissan_gtr_0.png",
         "assets/images/nissan_gtr_1.png",
@@ -63,7 +63,7 @@ List<Car> getCarList() {
       "Acura",
       "MDX 2020",
       2200,
-      "Monthly",
+      "Buy",
       [
         "assets/images/acura_0.png",
         "assets/images/acura_1.png",
@@ -74,7 +74,7 @@ List<Car> getCarList() {
       "Chevrolet",
       "Camaro",
       3400,
-      "Weekly",
+      "Buy",
       [
         "assets/images/camaro_0.png",
         "assets/images/camaro_1.png",
@@ -85,7 +85,7 @@ List<Car> getCarList() {
       "Ferrari",
       "Spider 488",
       4200,
-      "Weekly",
+      "Buy",
       [
         "assets/images/ferrari_spider_488_0.png",
         "assets/images/ferrari_spider_488_1.png",
@@ -98,7 +98,7 @@ List<Car> getCarList() {
       "Ford",
       "Focus",
       2300,
-      "Weekly",
+      "Buy",
       [
         "assets/images/ford_0.png",
         "assets/images/ford_1.png",
@@ -108,7 +108,7 @@ List<Car> getCarList() {
       "Fiat",
       "500x",
       1450,
-      "Weekly",
+      "Buy",
       [
         "assets/images/fiat_0.png",
         "assets/images/fiat_1.png",
@@ -118,7 +118,7 @@ List<Car> getCarList() {
       "Honda",
       "Civic",
       900,
-      "Daily",
+      "Buy",
       [
         "assets/images/honda_0.png",
       ],
@@ -127,7 +127,7 @@ List<Car> getCarList() {
       "Citroen",
       "Picasso",
       1200,
-      "Monthly",
+      "Buy",
       [
         "assets/images/citroen_0.png",
         "assets/images/citroen_1.png",
