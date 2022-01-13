@@ -5,7 +5,7 @@ import 'constants.dart';
 Widget buildCar(Car car, int index) {
   return Container(
     decoration: BoxDecoration(
-      color: Colors.pink,
+      color: Colors.white,
       borderRadius: BorderRadius.all(
         Radius.circular(20),
       ),

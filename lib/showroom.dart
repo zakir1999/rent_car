@@ -37,7 +37,7 @@ class _ShowroomState extends State<Showroom> {
         elevation: 0,
         brightness: Brightness.light,
         title: Text(
-          "Car Rental ",
+          "Car Buy ",
           style: GoogleFonts.muli(
             fontSize: 28,
             fontWeight: FontWeight.bold,
